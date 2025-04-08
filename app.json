@@ -1,4 +1,7 @@
 {
-  "name": "touch-assistant",
-  "slug": "touch-assistant"
+  "expo": {
+    "name": "touch-assistant",
+    "slug": "touch-assistant",
+    "newArchEnabled": true
+  }
 }
